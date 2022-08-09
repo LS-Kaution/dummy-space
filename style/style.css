@@ -8,6 +8,7 @@ body {
 }
 
 .planets {
+    gap: 50px;
     height: 100%;
     display: flex;
     justify-content: center;
