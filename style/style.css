@@ -18,4 +18,10 @@ body {
 .planet {
     height: 200px;
     width: 200px;
+    transition: width 1s, height 1s;
+}
+
+.planet:hover {
+    height: 300px;
+    width: 300px;
 }
